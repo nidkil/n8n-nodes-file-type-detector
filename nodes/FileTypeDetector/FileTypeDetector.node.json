@@ -1,0 +1,19 @@
+{
+  "node": "n8n-nodes-file-type-detector.fileTypeDetector",
+  "nodeVersion": "0.1.0",
+  "codexVersion": "1.0.0",
+  "categories": ["Utility"],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/yourusername/n8n-nodes-file-type-detector"
+      }
+    ],
+    "credentialDocumentation": []
+  },
+  "supportsAutoMap": true,
+  "alias": ["file type", "mime type", "detection", "magic bytes", "file analysis"],
+  "subcategories": {
+    "Utility": ["Data Transformation"]
+  }
+}
